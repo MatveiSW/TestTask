@@ -20,6 +20,6 @@
 
 # Скрины приложения: 
 
-![Image](https://github.com/MatveiSW/RickAndMorty/blob/main/InfoVC.png) 
+![Image](https://github.com/MatveiSW/TestTask/blob/main/TaskVC.png) 
 
   
