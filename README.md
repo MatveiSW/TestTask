@@ -22,4 +22,20 @@
 
 ![Image](https://github.com/MatveiSW/TestTask/blob/main/TaskVC.png) 
 
+
+![Image](https://github.com/MatveiSW/TestTask/blob/main/NewTask.png) 
+
+
+![Image](https://github.com/MatveiSW/TestTask/blob/main/Done.png) 
+
+
+![Image](https://github.com/MatveiSW/TestTask/blob/main/Undone.png) 
+
+
+![Image](https://github.com/MatveiSW/TestTask/blob/main/Edit.png) 
+
+
+
+
+
   
